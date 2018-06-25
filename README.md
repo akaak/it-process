@@ -1,4 +1,6 @@
-# Hugo Docs
+# IT Process & Playbooks
+
+by [@akadapa](https://twitter.com/akadapa)
 
 Documentation site for IT projects and process.
 
